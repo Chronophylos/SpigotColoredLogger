@@ -2,6 +2,12 @@
 
 A simple drop-in wrapper that allows for colored logging.
 
+## Features
+
+* Log records are colored by default
+* allows printing execptions with stacktraces
+
+
 ## Usage
 
 Just replace `java.util.logging.Logger` with `com.chronophylos.ColoredLogger`.
