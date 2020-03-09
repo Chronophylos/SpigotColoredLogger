@@ -1,0 +1,17 @@
+# Colored Logger
+
+A simple drop-in wrapper that allows for colored logging.
+
+## Usage
+
+Just replace `java.util.logging.Logger` with `com.chronophylos.ColoredLogger`.
+
+## Issues
+
+If you have any Issues like Bugs or Feature request feel free to open a Issue.
+
+## License
+
+This Project is license under the MIT License.
+
+Copyright (c) 2020 Nikolai Zimmermann
